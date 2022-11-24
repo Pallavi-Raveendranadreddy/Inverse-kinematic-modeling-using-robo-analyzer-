@@ -53,5 +53,5 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 ![output](https://github.com/Pallavi-Raveendranadreddy/Inverse-kinematic-modeling-using-robo-analyzer-/blob/main/3-1.JPG)
 
-RESULTS :
+### RESULTS :
 The inverse kinematics is analyzed using DH parameters for a 3 dof planer and 3 dof articulated/3R robot using roboanalyzer.
